@@ -11,6 +11,10 @@ A Heinz AI Club (HAIC) project, November 2026 to April 2027.
 - **Sub-team B:** resolution times and whether they differ by neighborhood, focusing on road and pothole requests
 - **One shared dashboard** and an **equity memo** with findings the City or Council could act on
 
+## Data source
+
+[Pittsburgh 311 Data](https://data.wprdc.org/dataset/pittsburgh-311-data) from the Western Pennsylvania Regional Data Center, published by the City of Pittsburgh. One dataset covers 2015 to today and updates four times a day. Details in [`docs/DATA.md`](docs/DATA.md).
+
 ## How the two sub-teams work together
 
 Both sub-teams write their results to files with agreed columns, and the dashboard reads those files. Nobody edits the same thing at once. The formats are in [`docs/FILE_FORMATS.md`](docs/FILE_FORMATS.md); change them only with agreement from both sub-teams and the dashboard owners.
