@@ -1,0 +1,6 @@
+date,period,category,neighborhood,forecast,low,high,model
+2027-01-04,week,Potholes,ALL,310,270,350,sample_model
+2027-01-04,week,Potholes,Squirrel Hill South,12,6,18,sample_model
+2027-01-04,week,Trash,ALL,540,480,600,sample_model
+2027-02-01,month,Streetlights,ALL,420,360,480,sample_model
+2027-02-01,month,Graffiti,Carrick,9,3,15,sample_model

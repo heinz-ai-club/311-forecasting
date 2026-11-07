@@ -1,0 +1,6 @@
+category,neighborhood,n_closed,median_days_to_close,p90_days_to_close,pct_open_over_30_days,equity_index,period_start,period_end
+Potholes,Squirrel Hill South,210,4.5,19.0,0.05,1.00,2025-02-04,2026-10-31
+Potholes,Carrick,180,7.0,31.5,0.12,0.64,2025-02-04,2026-10-31
+Potholes,Hazelwood,95,9.5,40.0,0.18,0.47,2025-02-04,2026-10-31
+Trash,Shadyside,150,2.0,8.0,0.02,1.10,2025-02-04,2026-10-31
+Streetlights,Homewood North,60,14.0,55.0,0.25,0.35,2025-02-04,2026-10-31
